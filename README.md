@@ -9,6 +9,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonExpedito&layout=compact&hide_border=true&title_color=00bd71&text_color=faebd7&bg_color=0d1117" />
 </div>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SonExpedito&theme=gotham&title_color=00a86b)
+
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
