@@ -4,12 +4,7 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SonExpedito&show_icons=true&count_private=true&hide_border=true&title_color=00bd71&icon_color=faebd7&text_color=c9d1d9&bg_color=0d1117" alt="#" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonExpedito&layout=compact&hide_border=true&title_color=00bd71&text_color=faebd7&bg_color=0d1117" />
-</div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SonExpedito&theme=gotham&title_color=00a86b)
 
 
 ### Main skills:
