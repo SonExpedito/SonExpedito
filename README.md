@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fe3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Expedito;I'm+16+years+old;I+am+from+Sao+Paulo;I+study+Analysis+and+Systems+Development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonExpedito&show_icons=true&theme=transparent)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31huj3vke4lssdzbd3inlyxbvgby&unique={true|1|on|yes})
+
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
