@@ -4,7 +4,7 @@
 
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31huj3vke4lssdzbd3inlyxbvgby&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=SonExpedito&count=1)
 
 
 ### Main skills:
