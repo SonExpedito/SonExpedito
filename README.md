@@ -4,7 +4,7 @@
 
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31huj3vke4lssdzbd3inlyxbvgby&count=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31huj3vke4lssdzbd3inlyxbvgby&unique={true|1|on|yes})
 
 
 ### Main skills:
