@@ -14,7 +14,7 @@
 
  
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,ps,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,ps,github,git,discord)](https://skillicons.dev)
 
   
 ### Studying in this moment:
