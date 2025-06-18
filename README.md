@@ -8,17 +8,17 @@
 
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,php,mysql,bootstrap,tailwind,laravel)](https://skillicons.dev)
 
 
 
  
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,ps,github,git,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,figma,ps,github,git,discord,linkedin)](https://skillicons.dev)
 
   
 ### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,react,nodejs,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,py,cpp,blender,laravel)](https://skillicons.dev)
 
 
 
